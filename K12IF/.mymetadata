@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="K12IF"
+  id="myeclipse.1439454974649"
+  context-root="/K12IF"
+  j2ee-spec="5.0"
+  archive="K12IF.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
